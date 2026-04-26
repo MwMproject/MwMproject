@@ -1,6 +1,6 @@
 <div align="center">
 
-![MwM Project](https://img.shields.io/badge/MwM_Project-Studio_Digital_Suisse-000000?style=for-the-badge&logoColor=white)
+![MwM](https://img.shields.io/badge/MwM-2ea44f?style=for-the-badge&logoColor=white)![Project](https://img.shields.io/badge/Project-000000?style=for-the-badge&logoColor=white)
 
 # Manu Weiss
 ### Développeur Web · Studio Digital · Vaud, Suisse 🇨🇭
@@ -24,12 +24,12 @@ Via **[MwM Project](https://mwm-project.ch)**, j'accompagne entrepreneurs, PME e
 En parallèle, j'explore le développement de **micro-SaaS** et d'**outils métier** pour indépendants et artisans.
 
 ```
-💼 Freelance disponible   🛠 En train de builder   📍 Suisse romande
+Freelance disponible   🛠 En train de builder   📍 Suisse romande
 ```
 
 ---
 
-## 🛠 Stack technique
+##  Stack technique
 
 **Langages**
 
@@ -53,7 +53,7 @@ En parallèle, j'explore le développement de **micro-SaaS** et d'**outils méti
 
 ---
 
-## 🚀 Projets notables
+##  Projets
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
@@ -63,11 +63,11 @@ En parallèle, j'explore le développement de **micro-SaaS** et d'**outils méti
 | ☕ [Luma Café](https://mwm-project.ch/#portfolio) | Landing page minimaliste style suisse | HTML · CSS |
 | 🏔️ [La Montagne](https://mwm-project.ch/#portfolio) | Site vitrine fictif · UI minimaliste | Webdesign |
 
-> 🔧 **En cours :** Application SaaS de devis & facturation avec QR-facture suisse, pour artisans et indépendants.
+>  **En cours :** Application SaaS de devis & facturation avec QR-facture suisse, pour artisans et indépendants.
 
 ---
 
-## 📊 Activité GitHub
+## Activité GitHub
 
 <div align="center">
 
