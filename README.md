@@ -81,19 +81,6 @@ En parallèle, j'explore le développement de **micro-SaaS** et d'**outils méti
 
 ---
 
-## 💼 Offres freelance
-
-| Formule | Prix | Inclus |
-|---------|------|--------|
-| **One Page** | 89 CHF/mois | Site one page, responsive, SEO de base, maintenance |
-| **Site Vitrine** | 129 CHF/mois | 5 pages, SEO avancé, support, 1h modifs/mois |
-| **Site Avancé** | 189 CHF/mois | 8–10 pages, SEO avancé, suivi perso, 1h30 modifs/mois |
-
-📌 Engagement 24 mois · Domaine + hébergement offerts · E-commerce & sur mesure sur devis
-
-📬 **[Démarrer un projet → mwm-project.ch](https://mwm-project.ch/#contact)**
-
----
 
 <div align="center">
 <sub>© MwM Project · Studio digital indépendant · Vaud, Suisse 🇨🇭</sub>
