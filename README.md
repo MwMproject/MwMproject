@@ -71,7 +71,7 @@ Freelance disponible   🛠 En train de builder   📍 Suisse romande
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MwMproject&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MwMproject&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MwMproject&layout=compact&theme=github_dark&hide_border=true)
 
